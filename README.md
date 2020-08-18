@@ -4,7 +4,7 @@
 
 ## Main parts
 1. Home server computer
-    - Personal cloud (Nextcloud)
+    - [Personal cloud (Nextcloud)](https://github.com/tomasvanagas/myHomeItSetup/blob/master/nextcloud/README.md)
         - File storage
         - Music streamer
     - Personal website (Wordpress)
