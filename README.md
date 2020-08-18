@@ -4,14 +4,14 @@
 
 ## Main parts
 1. Home server computer
-    - Private cloud (Nextcloud)
+    - Personal cloud (Nextcloud)
         - File storage
         - Music streamer
     - Personal website (Wordpress)
         - Blog / shop / anything else
 2. Mobile phone (GrapheneOS)
     - Full control of apps
-    - Private cloud
+    - Personal cloud
         - File storage
         - Music streamer
     - Tor enclosed apps (Orbot)
