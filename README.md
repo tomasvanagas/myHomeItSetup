@@ -4,11 +4,21 @@
 
 ## Main parts
 1. Home server computer
-    - Private cloud
-    - Personal website
-2. Mobile phone
+    - Private cloud (Nextcloud)
+        - File storage
+        - Music streamer
+    - Personal website (Wordpress)
+        - Blog / shop / anything else
+2. Mobile phone (GrapheneOS)
     - Full control of apps
     - Private cloud
-    - Tor enclosed apps
-    - Bitcoin wallet (lightning and onchain networks)
-3. Router (with open source software)
+        - File storage
+        - Music streamer
+    - Tor enclosed apps (Orbot)
+    - Bitcoin wallet (Phoenix)
+        - Lightning network transactions (latest)
+        - Onchain Bitcoin transactions (legacy)
+    - Personal music streamer from home (Subsonic)
+3. Router (OpenWRT)
+    - Firewall
+    - Filtered domain name system (Pihole)
