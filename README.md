@@ -9,7 +9,7 @@
         - Music streamer
     - Personal website (Wordpress)
         - Blog / shop / anything else
-2. Mobile phone (GrapheneOS)
+2. [Mobile phone (GrapheneOS)](https://github.com/tomasvanagas/myHomeItSetup/blob/master/privacyPhone/README.md)
     - Full control of apps
     - Personal cloud
         - File storage
